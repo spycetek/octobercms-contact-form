@@ -2,6 +2,7 @@
     "name": "grofgraf/oc-contactme-plugin",
     "type": "october-plugin",
     "description": "Contact form plugin for OctoberCMS",
+    "license": "MIT",
     "authors": [
         {
             "name": "GrofGraf"
