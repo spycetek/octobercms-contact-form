@@ -1,0 +1,10 @@
+{
+    "name": "grofgraf/oc-contactme-plugin",
+    "type": "october-plugin",
+    "description": "Contact form plugin for OctoberCMS",
+    "authors": [
+        {
+            "name": "GrofGraf"
+        }
+    ]
+}
